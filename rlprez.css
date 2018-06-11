@@ -1,0 +1,46 @@
+/*!
+ * Atomi HTML5 Project Style Sheet
+ * Copyright (c) Atomi Systems, Inc. All rights reserved.
+ * https://atomisystems.com
+ * Version: 7.2.1
+ */
+#QkfajJ4M .ap-focused {
+	outline: 1px dashed black;
+	outline-offset: 1px;
+}
+#QkfajJ4M p {
+	margin: 0;
+}
+#QkfajJ4M ol,ul {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+@font-face{
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Arial'),
+         url('resources/font_0.woff');
+}
+@font-face{
+    font-family: 'Cornerstone';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Cornerstone'),
+         url('resources/font_1.woff');
+}
+@font-face{
+    font-family: 'Cornerstone';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Cornerstone Bold'),
+         url('resources/font_2.woff');
+}
+@font-face{
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Verdana'),
+         url('resources/font_3.woff');
+}
+
